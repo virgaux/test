@@ -1,1 +1,1 @@
-[{"version": "11.4", "Fixes": ["Fixed error on console.log", "fixed ECR error"], "Update":["updated index"], "New feature": ["Added ACCI welcome text and version via terminal"]}]
+{"version": 11.4, "Fixes": ["Fixed error on console.log", "fixed ECR error"], "Update":["updated index"], "New feature": ["Added ACCI welcome text and version via terminal"]}
